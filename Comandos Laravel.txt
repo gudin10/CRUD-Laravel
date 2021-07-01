@@ -8,4 +8,4 @@ php artisan storage:link // crea un link a archivos guardados en storage/app/pub
 
 composer require laravel/ui  //para interface laravel
 
-php artisan ui bootstrap --auth
+php artisan ui bootstrap --auth // integra interfaz bootstrap
